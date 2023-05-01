@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+html {
+  font-size: 24px
+}
+h1 {
+  font-size: 32px
+}
+:root {
+  --text-color:#003366;
+  --text-shadow: 3px 3px 4px #999999;
+  --box-shadow: 3px 3px 3px #999999 ;
+  --background-center: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/confectionary.png);
+  --background-contour:#E7E7E7;
+  --background-image: url("./background-drops.jpg");
+  --accent-color: #c32b37;
+  --green-color: green;
+
+}
