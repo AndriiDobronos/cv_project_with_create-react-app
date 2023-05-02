@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+This is a personal portfolio website built with React.js and Bootstrap, utilizing React Router v6 to enable easy access to multiple pages.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The website was designed and created entirely by Andrii Dobronos, showcasing his skills and projects.
+
+This project was bootstrapped with Create React App.
+
+### Features
+
+Multiple Pages (React Router): The website has multiple pages to showcase various aspects of Andrii skills and projects.
+
+Fully Responsive: The website is fully responsive and works well on all devices.
+
+Modern Design: The website has a modern and visually appealing design.
 
 ## Available Scripts
 
